@@ -474,6 +474,16 @@
             "title": "Goreme, Turkiye",
             "dataPosition": "center center",
             "latlong": [38.671513044926726, 34.82477197170802]
+        },
+        {
+            "title": "Gern, Switzerland",
+            "dataPosition": "center center",
+            "latlong": [47.02995507143865, 7.499406535286782]
+        },
+        {
+            "title": "Grindelwald, Switzerland",
+            "dataPosition": "center center",
+            "latlong": [46.623041890848576, 8.035992156325422]
         }
     ]
 }
