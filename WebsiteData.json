@@ -171,9 +171,9 @@
             "latlong": [39.150660058303785, -106.45063535342683]
         },
         {
-            "title": "Glenwood Springs, USA",
+            "title": "Pagosa Springs, USA",
             "dataPosition": "center center",
-            "latlong": [39.55102851223579, -107.32574987680019]
+            "latlong": [37.312463083812055, -107.0396464217046]
         },
         {
             "title": "Rocky Mountain National Park, USA",
@@ -239,6 +239,241 @@
             "title": "Omaha, USA",
             "dataPosition": "center center",
             "latlong": [41.4279560578563, -95.92583194538555]
+        },
+        {
+            "title": "Washington DC, USA",
+            "dataPosition": "center center",
+            "latlong": [39.101867186977444, -77.10625762832333]
+        },
+        {
+            "title": "Orlando, USA",
+            "dataPosition": "center center",
+            "latlong": [28.91725193776719, -81.50376808092146]
+        },
+        {
+            "title": "Great Smoky Mountains, USA",
+            "dataPosition": "center center",
+            "latlong": [35.9333995499811, -83.49732707698458]
+        },
+        {
+            "title": "Kansas City, USA",
+            "dataPosition": "center center",
+            "latlong": [39.286470629342624, -94.56078540986086]
+        },
+        {
+            "title": "Grand Teton National Park, USA",
+            "dataPosition": "center center",
+            "latlong": [43.859832693804634, -110.6916601594571]
+        },
+        {
+            "title": "Hoover Dam, USA",
+            "dataPosition": "center center",
+            "latlong": [36.043519397318576, -114.74204567552502]
+        },
+        {
+            "title": "Phoenix, USA",
+            "dataPosition": "center center",
+            "latlong": [33.46772854037075, -112.09355615240788]
+        },
+        {
+            "title": "State Border of Colorado and Wyoming, USA",
+            "dataPosition": "center center",
+            "latlong": [41.12535409737124, -104.90899778817635]
+        },
+        {
+            "title": "Red Rocks Amphitheatre, USA",
+            "dataPosition": "center center",
+            "latlong": [39.71166491545334, -105.19849964203783]
+        },
+        {
+            "title": "Boulder, USA",
+            "dataPosition": "center center",
+            "latlong": [40.0525356826911, -105.27362351445954]
+        },
+        {
+            "title": "Black Hawk, USA",
+            "dataPosition": "center center",
+            "latlong": [39.83969001667879, -105.50226138704733]
+        },
+        {
+            "title": "Castle Rock, USA",
+            "dataPosition": "center center",
+            "latlong": [39.39687162170311, -104.85227657783345]
+        },
+        {
+            "title": "Cusco, Peru",
+            "dataPosition": "center center",
+            "latlong": [-13.46686247332423, -71.98594573291844]
+        },
+        {
+            "title": "La Paz, Bolivia",
+            "dataPosition": "center center",
+            "latlong": [-16.357149041262875, -68.15651393775413]
+        },
+        {
+            "title": "Santiago, Chile",
+            "dataPosition": "center center",
+            "latlong": [-33.34578647333621, -70.70558854703968]
+        },
+        {
+            "title": "El Calafate, Argentina",
+            "dataPosition": "center center",
+            "latlong": [-50.30432629286621, -72.27701482523882]
+        },
+        {
+            "title": "Torres del Paine National Park, Chile",
+            "dataPosition": "center center",
+            "latlong": [-50.92583114260198, -73.4081202360535]
+        },
+        {
+            "title": "Puerto Natales, Chile",
+            "dataPosition": "center center",
+            "latlong": [-51.69848372994319, -72.51242366711715]
+        },
+        {
+            "title": "Perito Moreno Glacier, Argentina",
+            "dataPosition": "center center",
+            "latlong": [-50.42225902784961, -73.15830585450503]
+        },
+        {
+            "title": "Punta Arenas, Chile",
+            "dataPosition": "center center",
+            "latlong": [-53.141580571051726, -70.93495675604356]
+        },
+        {
+            "title": "Rio De Janerio, Brazil",
+            "dataPosition": "center center",
+            "latlong": [-23.15682216932546, -43.03474006606263]
+        },
+        {
+            "title": "Iguazu Falls, Brazil & Argentina",
+            "dataPosition": "center center",
+            "latlong": [-25.686989186589397, -54.44146694420829]
+        },
+        {
+            "title": "London, UK",
+            "dataPosition": "center center",
+            "latlong": [51.50732119229854, -0.1254029402499889]
+        },
+        {
+            "title": "Paris, France",
+            "dataPosition": "center center",
+            "latlong": [48.85887022538711, 2.3543788318098455]
+        },
+        {
+            "title": "Palace of Versailles, France",
+            "dataPosition": "center center",
+            "latlong": [48.86135031903984, 2.1225516390581918]
+        },
+        {
+            "title": "Cinque Terre, Italy",
+            "dataPosition": "center center",
+            "latlong": [44.13921581377665, 9.67811483750861]
+        },
+        {
+            "title": "Milan, Italy",
+            "dataPosition": "center center",
+            "latlong": [45.45631798568785, 9.20610962965457]
+        },
+        {
+            "title": "Venice, Italy",
+            "dataPosition": "center center",
+            "latlong": [45.48134922401473, 12.30168611939062]
+        },
+        {
+            "title": "Ferrari, Ferrari",
+            "dataPosition": "center center",
+            "latlong": [44.52551698491095, 10.86225393620324]
+        },
+        {
+            "title": "Florence, Italy",
+            "dataPosition": "center center",
+            "latlong": [43.77702327185268, 11.253752755705776]
+        },
+        {
+            "title": "Seina, Italy",
+            "dataPosition": "center center",
+            "latlong": [43.47531015897379, 11.04457895554507]
+        },
+        {
+            "title": "Trevi Fountain, Italy",
+            "dataPosition": "center center",
+            "latlong": [41.90186688150138, 12.483636670544673]
+        },
+        {
+            "title": "Colosseo, Italy",
+            "dataPosition": "center center",
+            "latlong": [41.89055891256789, 12.490517180527982]
+        },
+        {
+            "title": "Rome, Italy",
+            "dataPosition": "center center",
+            "latlong": [41.90272354007472, 12.494584205445772]
+        },
+        {
+            "title": "Vatican City, Vatican City",
+            "dataPosition": "center center",
+            "latlong": [41.920349423724815, 12.451882644880799]
+        },
+        {
+            "title": "Athens, Greece",
+            "dataPosition": "center center",
+            "latlong": [38.142160038512586, 23.730914868321445]
+        },
+        {
+            "title": "Santorini, Greece",
+            "dataPosition": "center center",
+            "latlong": [36.46267174240159, 25.372788654693203]
+        },
+        {
+            "title": "Lone Pine, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [40.26113930610609, 26.286657601812276]
+        },
+        {
+            "title": "Çanakkale, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [40.3709624103419, 26.642624370430173]
+        },
+        {
+            "title": "Izmir, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [38.47247243391448, 27.144930760219125]
+        },
+        {
+            "title": "Cesme, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [38.360116423658184, 26.303401050049036]
+        },
+        {
+            "title": "Selcuk, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [37.995240987637125, 27.371351286171674]
+        },
+        {
+            "title": "Pamukkale, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [37.93406502009278, 29.118112108749468]
+        },
+        {
+            "title": "Kas, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [36.25136059138925, 29.630592309565003]
+        },
+        {
+            "title": "Antalya, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [36.94513957556898, 30.70986359704772]
+        },
+        {
+            "title": "Konya, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [37.92495625418722, 32.491038538905364]
+        },
+        {
+            "title": "Goreme, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [38.671513044926726, 34.82477197170802]
         }
     ]
 }
