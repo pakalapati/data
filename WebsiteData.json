@@ -109,7 +109,136 @@
             "title": "Istanbul, Turkiye",
             "dataPosition": "center center",
             "latlong": [41.02034821279966, 28.973408313212122]
+        },
+        {
+            "title": "New York, USA",
+            "dataPosition": "center center",
+            "latlong": [40.71298680972204, -74.0160814848345]
+        },
+        {
+            "title": "Niagara Falls, USA",
+            "dataPosition": "center center",
+            "latlong": [43.09413977306485, -79.0775501936255]
+        },
+        {
+            "title": "Chicago, USA",
+            "dataPosition": "center center",
+            "latlong": [42.00339406930077, -87.61701367381603]
+        },
+        {
+            "title": "St. Louis, USA",
+            "dataPosition": "center center",
+            "latlong": [38.69414191800314, -90.1721058576567]
+        },
+        {
+            "title": "Chattanooga, USA",
+            "dataPosition": "center center",
+            "latlong": [35.1738878876519, -85.37064704325861]
+        },
+        {
+            "title": "Miami, USA",
+            "dataPosition": "center center",
+            "latlong": [25.805410476560898, -80.2219328587158]
+        },
+        {
+            "title": "Key West, USA",
+            "dataPosition": "center center",
+            "latlong": [24.626268718836446, -81.76518805822532]
+        },
+        {
+            "title": "New Orleans, USA",
+            "dataPosition": "center center",
+            "latlong": [30.03002807308642, -90.13551377975206]
+        },
+        {
+            "title": "Albuquerque, USA",
+            "dataPosition": "center center",
+            "latlong": [35.19015441290528, -106.76036247766734]
+        },
+        {
+            "title": "White Sands National Park, USA",
+            "dataPosition": "center center",
+            "latlong": [32.77864034358811, -106.32376650097807]
+        },
+        {
+            "title": "Pikes Peak, USA",
+            "dataPosition": "center center",
+            "latlong": [38.85490189943842, -105.08829302053287]
+        },
+        {
+            "title": "Mt. Elbert, USA",
+            "dataPosition": "center center",
+            "latlong": [39.150660058303785, -106.45063535342683]
+        },
+        {
+            "title": "Glenwood Springs, USA",
+            "dataPosition": "center center",
+            "latlong": [39.55102851223579, -107.32574987680019]
+        },
+        {
+            "title": "Rocky Mountain National Park, USA",
+            "dataPosition": "center center",
+            "latlong": [40.31391958827848, -105.69322067511166]
+        },
+        {
+            "title": "Yellowstone National Park, USA",
+            "dataPosition": "center center",
+            "latlong": [44.39028518339256, -110.78510380647587]
+        },
+        {
+            "title": "Bear Lake, USA",
+            "dataPosition": "center center",
+            "latlong": [41.99004437670643, -111.331359333596]
+        },
+        {
+            "title": "Utah State University, USA",
+            "dataPosition": "center center",
+            "latlong": [41.75134211029616, -111.810076624698]
+        },
+        {
+            "title": "Salt Lake City, USA",
+            "dataPosition": "center center",
+            "latlong": [40.76746946926127, -111.87494951445566]
+        },
+        {
+            "title": "Bryce Canyon National Park, USA",
+            "dataPosition": "center center",
+            "latlong": [37.654801974800016, -112.16113991224621]
+        },
+        {
+            "title": "Zion National Park, USA",
+            "dataPosition": "center center",
+            "latlong": [37.2908169010031, -113.08648134374569]
+        },
+        {
+            "title": "Horseshoe Bend, USA",
+            "dataPosition": "center center",
+            "latlong": [36.87947252567836, -111.51038416603396]
+        },
+        {
+            "title": "Grand Canyon National Park, USA",
+            "dataPosition": "center center",
+            "latlong": [36.27564563472189, -112.30614461633668]
+        },
+        {
+            "title": "Las Vegas, USA",
+            "dataPosition": "center center",
+            "latlong": [36.26899486300079, -115.13940949278822]
+        },
+        {
+            "title": "Los Angeles, USA",
+            "dataPosition": "center center",
+            "latlong": [34.13508643034635, -118.11061655446962]
+        },
+        {
+            "title": "Seattle, USA",
+            "dataPosition": "center center",
+            "latlong": [47.922572176058445, -122.3613333184782]
+        },
+        {
+            "title": "Omaha, USA",
+            "dataPosition": "center center",
+            "latlong": [41.4279560578563, -95.92583194538555]
         }
-
     ]
 }
