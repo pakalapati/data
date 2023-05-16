@@ -484,6 +484,106 @@
             "title": "Grindelwald, Switzerland",
             "dataPosition": "center center",
             "latlong": [46.623041890848576, 8.035992156325422]
+        },
+        {
+            "title": "Chiang Mai, Thailand",
+            "dataPosition": "center center",
+            "latlong": [18.839407358221873, 98.9660884491772]
+        },
+        {
+            "title": "Bangkok, Thailand",
+            "dataPosition": "center center",
+            "latlong": [14.253476262170116, 100.45882402602375]
+        },
+        {
+            "title": "Krabi, Thailand",
+            "dataPosition": "center center",
+            "latlong": [8.122012395300832, 99.08741050745788]
+        },
+        {
+            "title": "Siem Reap, Cambodia",
+            "dataPosition": "center center",
+            "latlong": [13.413816333697262, 103.86844511680656]
+        },
+        {
+            "title": "Hi Chi Minh City, Vietnam",
+            "dataPosition": "center center",
+            "latlong": [10.848616845269769, 106.70994442258865]
+        },
+        {
+            "title": "Hoi An, Vietnam",
+            "dataPosition": "center center",
+            "latlong": [15.880111458173378, 108.3400736634039]
+        },
+        {
+            "title": "Hanoi, Vietnam",
+            "dataPosition": "center center",
+            "latlong": [21.157195899477337, 105.77958838221053]
+        },
+        {
+            "title": "Ha Long Bay, Switzerland",
+            "dataPosition": "center center",
+            "latlong": [20.82304220998365, 107.17894094749416]
+        },
+        {
+            "title": "Hyderabad, India",
+            "dataPosition": "center center",
+            "latlong": [17.39169243189412, 78.47979749416179]
+        },
+        {
+            "title": "Kakinada, India",
+            "dataPosition": "center center",
+            "latlong": [16.937064695451557, 82.25896730805098]
+        },
+        {
+            "title": "Visakhapatnam, India",
+            "dataPosition": "center center",
+            "latlong": [17.858819138069414, 83.25694593297705]
+        },
+        {
+            "title": "Yanam, India",
+            "dataPosition": "center center",
+            "latlong": [16.751514774727074, 82.26775398256139]
+        },
+        {
+            "title": "Tirupati, India",
+            "dataPosition": "center center",
+            "latlong": [13.71276352138746, 79.42083102747154]
+        },
+        {
+            "title": "Chennai, India",
+            "dataPosition": "center center",
+            "latlong": [13.18620828818562, 80.343356936753]
+        },
+        {
+            "title": "Ooty, India",
+            "dataPosition": "center center",
+            "latlong": [11.523017732235306, 76.68015480071566]
+        },
+        {
+            "title": "Coimbatore, India",
+            "dataPosition": "center center",
+            "latlong": [11.07818695404954, 77.16580215295241]
+        },
+        {
+            "title": "Munnar, India",
+            "dataPosition": "center center",
+            "latlong": [10.14732519607906, 77.05913715898153]
+        },
+        {
+            "title": "Kollam, India",
+            "dataPosition": "center center",
+            "latlong": [8.995716039652745, 76.57324366518323]
+        },
+        {
+            "title": "Tiruvananthapuram, India",
+            "dataPosition": "center center",
+            "latlong": [8.619089970434887, 76.97573566421337]
+        },
+        {
+            "title": "Kovalam, India",
+            "dataPosition": "center center",
+            "latlong": [8.400079210993093, 76.9780062025949]
         }
     ]
 }
