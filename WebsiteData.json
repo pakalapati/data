@@ -104,6 +104,11 @@
             "title": "Delicate Arch, Utah, USA",
             "dataPosition": "center center",
             "latlong": [38.74393168541252, -109.5016516272236]
+        },
+        {
+            "title": "Istanbul, Turkiye",
+            "dataPosition": "center center",
+            "latlong": [41.02034821279966, 28.973408313212122]
         }
 
     ]
