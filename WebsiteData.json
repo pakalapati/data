@@ -743,6 +743,12 @@
             "title": "Kovalam, India",
             "dataPosition": "center center",
             "latlong": [8.400079210993093, 76.9780062025949]
+        },
+        {
+            "title": "Singapore, Singapore",
+            "dataPosition": "center center",
+            "latlong": [1.2805718953261709, 103.85039565738055]
         }
+        
     ]
 }
